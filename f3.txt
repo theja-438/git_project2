@@ -1,1 +1,6 @@
 Fixing bug in f3.txt
+Adding new line to bug-fix
+1
+2
+3
+4
